@@ -1,0 +1,13 @@
+{
+  "dependencies": {
+    "@11ty/eleventy": "^2.0.1"
+  },
+  "name": "dev.itablera.se",
+  "version": "1.0.0",
+  "description": "Source and content for the public static page 'dev.itablera.se'",
+  "main": "index.js",
+  "repository": "https://github.com/Itablera/dev.itablera.se.git",
+  "author": "Per Linde <per@itablera.se>",
+  "license": "MIT",
+  "private": false
+}
